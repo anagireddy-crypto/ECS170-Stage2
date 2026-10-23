@@ -1,0 +1,2 @@
+random_seed,epochs,batch_size,learning_rate,optimizer,loss_function
+170,8,256,0.001,Adam,CrossEntropyLoss
